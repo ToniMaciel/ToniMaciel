@@ -19,7 +19,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></p>
 
-<p align=center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonimaciel&layout=compact&theme=dracula" /> </p>
+<p align=center> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonimaciel&layout=compact&theme=dracula&langs_count=5" /> </p>
 
 ## 📬 Connect with me
 <p align="center">
