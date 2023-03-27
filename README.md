@@ -3,16 +3,16 @@
 
 ## ☺️ About me
 
-- 🔭 I'm a developer and researcher at [@SPG](http://www.cin.ufpe.br/spg)
+- 💻 I'm a developer at [@CreditSuisse](https://www.cshg.com.br/)
+- 🔭 I'm a researcher at [@SPG](http://www.cin.ufpe.br/spg)
 - 🌱 I'm currently a Computer Science student [@UFPE](https://www3.cin.ufpe.br/en/)
 - ❣️ I'm passionate to learn, and resolve challenging puzzles
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love reading Calvin and Hobbes comics
 
 <p align=center> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tonimaciel&show_icons=true&theme=dracula" /></a> </p>
 
 ## 💻 Technologies and Tools
 <p align="center"> 
+    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a> 
