@@ -6,7 +6,7 @@
 - 💻 I'm a developer at [@CreditSuisse](https://www.cshg.com.br/)
 - 🔭 I'm a researcher at [@SPG](http://www.cin.ufpe.br/spg)
 - 🌱 I'm currently a Computer Science student [@UFPE](https://www3.cin.ufpe.br/en/)
-- ❣️ I'm passionate to learn, and resolve challenging puzzles
+- ❣️ I'm passionate to learn and resolve challenging puzzles
 
 <p align=center> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tonimaciel&show_icons=true&theme=dracula" /></a> </p>
 
